@@ -1,0 +1,1 @@
+(this.webpackJsonpoceanomare=this.webpackJsonpoceanomare||[]).push([[36],{199:function(n,t,e){"use strict";e.r(t);var o=e(2),c=e(71);t.default=Object(c.e)((function(n){var t=n.history;return Object(o.useEffect)((function(){var n=t.listen((function(){window.scrollTo(0,0)}));return function(){n()}}),[t]),null}))}}]);
